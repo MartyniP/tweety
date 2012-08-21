@@ -1,0 +1,31 @@
+twitterUsers
+		[tuid]->
+			id
+			nick
+			host
+			chans ->
+				[chan]
+					server
+					chan
+					format
+					show_replies
+					show_retweets
+
+users ->
+	[host] ->
+		tid
+		sn
+		nick
+		oauth
+
+servers ->
+	[server name] ->
+			id
+			server
+			port
+			user ->
+				nick
+				real name
+			nickserv
+
+			
