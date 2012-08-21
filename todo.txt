@@ -4,17 +4,16 @@ Priority 1
 Priority 2
 - Keyword based filtering
 - Modules
-- oAuth 
-	-> tweet
-
-
+- oAuth (tweet)
 
 Priority 3
 - Location based filtering
 - Channel tweet format
+- User lookup
 
 Priority 4
-- 
+- User streams,
 
 Priority 5
 - optional web panel
+- Scheduled tweets
