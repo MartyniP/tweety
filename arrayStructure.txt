@@ -23,13 +23,14 @@ servers ->
 			id
 			server
 			port
-			serverv6
-			portv6
+			server6
+			port6
 			ipv6 (true|false)
 			user ->
 				nick
+				ident
 				real name
 			nickserv
-
+			blockmotd
 			
-$
+
